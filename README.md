@@ -12,7 +12,7 @@ Each graph is represented by a PyTorch Geometric (PyG) Data object with the foll
 
 
 
-**!! UPDATE PATH TO DATASET BEFORE RUNNING JUPYTER NOTEBOOK !!** 
+** NOTE -  UPDATE PATH TO DATASET BEFORE RUNNING JUPYTER NOTEBOOK !!** 
 
 ### To run the model :
 - either use the edge_classify.ipynb notebook 
