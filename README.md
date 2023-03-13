@@ -22,7 +22,7 @@ Each graph is represented by a PyTorch Geometric (PyG) Data object with the foll
 
 
 ### Achieved Accuracy -
-![alt text](https://github.com/nomaan-2k/edge_classification/blob/5f5a3d0b17c0ca8661de22e8cabe4a884da7c82b/accuracy)
+![alt text](https://github.com/nomaan-2k/edge_classification/blob/e8d53d2d1d209842afe718fcfc23ba8ba2ad2919/accuracy.jpg?raw=true)
 
 
 
