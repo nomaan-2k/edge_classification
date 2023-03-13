@@ -21,4 +21,8 @@ Each graph is represented by a PyTorch Geometric (PyG) Data object with the foll
 **NOTE -  UPDATE PATH TO DATASET BEFORE RUNNING JUPYTER NOTEBOOK !!** 
 
 
+### Achieved Accuracy -
+![alt text](https://github.com/nomaan-2k/edge_classification/blob/5f5a3d0b17c0ca8661de22e8cabe4a884da7c82b/accuracy)
+
+
 
