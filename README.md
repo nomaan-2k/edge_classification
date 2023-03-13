@@ -22,7 +22,8 @@ Each graph is represented by a PyTorch Geometric (PyG) Data object with the foll
 
 
 ### Achieved Accuracy -
-![alt text](accuracy.jpg)
 
 
 
+
+ file:///home/nomaan/personal/GSOC2023/gnn_tracking/edge_classification/accuracy.jpg![accuracy](https://user-images.githubusercontent.com/52543604/224615688-736ebb62-5807-488c-b978-30bd176fb046.jpg)
