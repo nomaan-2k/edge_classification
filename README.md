@@ -22,8 +22,4 @@ Each graph is represented by a PyTorch Geometric (PyG) Data object with the foll
 
 
 ### Achieved Accuracy -
-
-
-
-
-![accuracy](https://user-images.githubusercontent.com/52543604/224615688-736ebb62-5807-488c-b978-30bd176fb046.jpg)
+![img](/accuracy.jpg)
