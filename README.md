@@ -22,4 +22,4 @@ Each graph is represented by a PyTorch Geometric (PyG) Data object with the foll
 
 
 ### Achieved Accuracy -
-![img](/accuracy.jpg)
+![img](accuracy.jpg)
